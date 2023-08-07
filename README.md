@@ -20,3 +20,18 @@ gh auth login
 ```
 
 
+
+
+
+# nvm
+```shell
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.4/install.sh | bash
+```
+
+```shell
+source ~/.bashrc
+```
+
+```shell
+nvm install stable
+```
