@@ -58,6 +58,11 @@ go version
 curl -s https://raw.githubusercontent.com/nektos/act/master/install.sh | sudo bash
 ```
 
+```shell
+install bin/act  /usr/local/bin/
+```
+
+
 ## Use
 list
 ```shell
