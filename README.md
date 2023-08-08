@@ -50,3 +50,26 @@ export PATH=$PATH:/usr/local/go/bin
 ```shell
 go version
 ```
+
+
+# Act -  Think Globally , Act localy 
+## Install 
+```shell
+curl -s https://raw.githubusercontent.com/nektos/act/master/install.sh | sudo bash
+```
+
+## Use
+list
+```shell
+act -l
+```
+
+dry-run
+```shell
+act -n
+```
+
+real act
+```shell
+act
+```
