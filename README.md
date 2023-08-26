@@ -55,7 +55,7 @@ go version
 # Act -  Think Globally , Act localy 
 ## Install 
 ```shell
-curl -s https://raw.githubusercontent.com/nektos/act/master/install.sh | sudo bash
+curl -s https://raw.githubusercontent.com/nektos/act/master/install.sh | sudo bash && install bin/act  /usr/local/bin/
 ```
 
 ```shell
